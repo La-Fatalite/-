@@ -83,7 +83,7 @@ Image → Frozen Vision Encoder → Mini Q-Former → Projection Layer → Froze
 
 预测的caption
 
-![result.png](result.png)
+![微信图片_20260523212625_126_104.png](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260523212625_126_104.png)
 
 实际的caption
 
